@@ -36,7 +36,7 @@ This project explores how gradient-based explanations behave across different si
 
 ## 🔹 1. 3D Signal — Object Detection (DETR + Grad-CAM)
 
-![3D GradCAM](images/3d_gradcam.png)
+![3D GradCAM](images/gradcam_3d_object_detection.png)
 
 ### 📌 Observations
 
@@ -48,7 +48,7 @@ This project explores how gradient-based explanations behave across different si
 
 ## 🔹 2. 2D Signal — Classification (ViT + Grad-CAM)
 
-![2D GradCAM](images/2d_gradcam.png)
+![2D GradCAM](images/gradcam_2d_classification.png)
 
 ### 📌 Observations
 
@@ -60,9 +60,9 @@ This project explores how gradient-based explanations behave across different si
 
 ## 🔹 3. 1D Signal — RGB Histogram
 
-![Histogram](images/histogram.png)
+![Histogram](images/histogram_1d_signal.png)
 
-![1D Gradient](images/1d_gradient.png)
+![1D Gradient](images/gradcam_1d_histogram.png)
 
 ### 📌 Observations
 
@@ -74,7 +74,7 @@ This project explores how gradient-based explanations behave across different si
 
 ## 🔹 4. Per-Channel Gradient Analysis (1D)
 
-![Per Channel](images/per_channel.png)
+![Per Channel](images/1d_per_channel_saliency.png)
 
 ### 📌 Observations
 
@@ -86,7 +86,7 @@ This project explores how gradient-based explanations behave across different si
 
 ## 🔹 5. Statistical Comparison
 
-![Stats](images/stats.png)
+![Stats](images/stats_all_signals.png)
 
 ### 📌 Insights
 
@@ -98,7 +98,7 @@ This project explores how gradient-based explanations behave across different si
 
 ## 🔹 6. Final Comparison (All Signals)
 
-![Final Comparison](images/final.png)
+![Final Comparison](images/comparison_all_signals.png)
 
 ### 📌 Key Insight
 
@@ -136,7 +136,7 @@ This project explores how gradient-based explanations behave across different si
 
 ```
 Gradient-Activation-Maps/
-├── CS25M255_DL_Assignment.ipynb
+├── Gradient_Activation_Map_Analysis.ipynb
 ├── README.md
 └── images/
 ```
@@ -145,6 +145,6 @@ Gradient-Activation-Maps/
 
 # 👨‍💻 Author
 
-**Sandeep**
+**Nadipalli Jaya Sandeep**
 M.Tech Data Science & AI
 IIT Tirupati
