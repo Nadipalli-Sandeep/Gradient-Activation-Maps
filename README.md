@@ -145,6 +145,6 @@ Gradient-Activation-Maps/
 
 # 👨‍💻 Author
 
-**Nadipalli Jaya Sandeep**
-M.Tech Data Science & AI
+**Nadipalli Jaya Sandeep**  
+M.Tech Data Science & AI  
 IIT Tirupati
